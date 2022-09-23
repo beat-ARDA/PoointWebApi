@@ -1,0 +1,10 @@
+C:\Users\e-arduron\Desktop\MIO\Sem Ago-Dic 2022\pooint\PoointWebApi\PoointWebApi.Model\bin\Debug\netcoreapp3.1\PoointWebApi.Model.deps.json
+C:\Users\e-arduron\Desktop\MIO\Sem Ago-Dic 2022\pooint\PoointWebApi\PoointWebApi.Model\bin\Debug\netcoreapp3.1\PoointWebApi.Model.dll
+C:\Users\e-arduron\Desktop\MIO\Sem Ago-Dic 2022\pooint\PoointWebApi\PoointWebApi.Model\bin\Debug\netcoreapp3.1\PoointWebApi.Model.pdb
+C:\Users\e-arduron\Desktop\MIO\Sem Ago-Dic 2022\pooint\PoointWebApi\PoointWebApi.Model\obj\Debug\netcoreapp3.1\PoointWebApi.Model.csproj.AssemblyReference.cache
+C:\Users\e-arduron\Desktop\MIO\Sem Ago-Dic 2022\pooint\PoointWebApi\PoointWebApi.Model\obj\Debug\netcoreapp3.1\PoointWebApi.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e-arduron\Desktop\MIO\Sem Ago-Dic 2022\pooint\PoointWebApi\PoointWebApi.Model\obj\Debug\netcoreapp3.1\PoointWebApi.Model.AssemblyInfoInputs.cache
+C:\Users\e-arduron\Desktop\MIO\Sem Ago-Dic 2022\pooint\PoointWebApi\PoointWebApi.Model\obj\Debug\netcoreapp3.1\PoointWebApi.Model.AssemblyInfo.cs
+C:\Users\e-arduron\Desktop\MIO\Sem Ago-Dic 2022\pooint\PoointWebApi\PoointWebApi.Model\obj\Debug\netcoreapp3.1\PoointWebApi.Model.csproj.CoreCompileInputs.cache
+C:\Users\e-arduron\Desktop\MIO\Sem Ago-Dic 2022\pooint\PoointWebApi\PoointWebApi.Model\obj\Debug\netcoreapp3.1\PoointWebApi.Model.dll
+C:\Users\e-arduron\Desktop\MIO\Sem Ago-Dic 2022\pooint\PoointWebApi\PoointWebApi.Model\obj\Debug\netcoreapp3.1\PoointWebApi.Model.pdb
