@@ -36,14 +36,17 @@ namespace PoointWebApi
 
             services.AddCors(option =>
             {
-                option.AddDefaultPolicy(builder => {
+                option.AddDefaultPolicy(builder =>
+                {
                     builder.WithOrigins("http://localhost:3000").AllowAnyHeader().AllowAnyMethod().AllowCredentials();
-                });  
+                });
             });
 
             services.AddSingleton<IDictionary<string, UserConnection>>(opts => new Dictionary<string, UserConnection>());
 
             services.AddScoped<ICarRepository, CarRepository>();
+            services.AddScoped<IUserRepository, UserRepository>();
+            services.AddScoped<IChatsRepository, ChatsRepository>();
 
             services.AddControllers();
             AddSwagger(services);

@@ -11,9 +11,7 @@ namespace PoointWebApi.Data.Repositories
         Task<IEnumerable<Car>> GetAllCars();
         Task<Car> GetCardDetails(int id);
         Task<bool> InsertCar(Car car);
-
         Task<bool> UpdateCar(Car car);
-
         Task<bool> DeleteCar(Car car);
     }
 }
