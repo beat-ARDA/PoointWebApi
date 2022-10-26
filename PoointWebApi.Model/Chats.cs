@@ -9,10 +9,18 @@ namespace PoointWebApi.Model
         public int Id { get; set; }
         public int UserId1 { get; set; }
         public int UserId2 { get; set; }
+        public string Username1 { get; set; }
+        public string Username2 { get; set; }
     }
 
     public class ChatsById
     {
         public int Id { get; set; }
+    }
+
+    public class ChatsIds
+    {
+        public int UserId1 { get; set; }
+        public int UserId2 { get; set; }
     }
 }

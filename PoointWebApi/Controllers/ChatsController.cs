@@ -45,5 +45,12 @@ namespace PoointWebApi.Controllers
         {
             return Ok(await _chatRepository.DeleteChatById(chat));
         }
+
+        [HttpGet]
+        [Route("GetChatByIds")]
+        public async Task<IActionResult> GetChatByIds([FromQuery] ChatsIds chat)
+        {
+            return Ok(await _chatRepository.GetChatByIds(chat));
+        }
     }
 }

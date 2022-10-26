@@ -23,10 +23,10 @@ namespace PoointWebApi.Data.Repositories
         {
             var db = dbConnection();
 
-            var sql = @"insert into chats (userId1, userId2) 
-                        values (@Userid1, @Userid2) ";
+            var sql = @"insert into chats (userId1, userId2, username1, username2) 
+                        values (@Userid1, @Userid2, @Username1, @Username2) ";
 
-            var result = await db.ExecuteAsync(sql, new { chat.UserId1, chat.UserId2 });
+            var result = await db.ExecuteAsync(sql, new { chat.UserId1, chat.UserId2, chat.Username1, chat.Username2 });
 
             return result > 0;
         }
@@ -45,9 +45,17 @@ namespace PoointWebApi.Data.Repositories
         {
             var db = dbConnection();
 
-            var sql = @"select id, userId1, userId2 from chats where userId1 = @Id Or userId2 = @Id";
+            var sql = @"select id, userId1, userId2, username1, username2 from chats where userId1 = @Id Or userId2 = @Id";
 
             return await db.QueryAsync<Chats>(sql, new { chat.Id });
+        }
+        public async Task<IEnumerable<ChatsIds>> GetChatByIds(ChatsIds chat)
+        {
+            var db = dbConnection();
+
+            var sql = @"select userId1, userId2 from chats where (userId1 = @UserId1 and userId2 = @UserId2) Or  (userId1 = @UserId2 and userId2 = @UserId1)";
+ 
+            return await db.QueryAsync<ChatsIds>(sql, new { chat.UserId1, chat.UserId2 });
         }
     }
 }

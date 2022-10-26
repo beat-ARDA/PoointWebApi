@@ -11,5 +11,6 @@ namespace PoointWebApi.Data.Repositories
         Task<bool> InsertChat(Chats chat);
         Task<bool> DeleteChatById(ChatsById chat);
         Task<IEnumerable<Chats>> GetChatsByUserId(ChatsById chat);
+        Task<IEnumerable<ChatsIds>> GetChatByIds(ChatsIds chat);
     }
 }
