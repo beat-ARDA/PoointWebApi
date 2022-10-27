@@ -6,13 +6,13 @@ namespace PoointWebApi.Model
 {
     public class ChatsTeamsUsers
     {
-        public int UserId;
-        public string ChatTeamsId;
+        public int UserId { get; set; }
+        public int ChatTeamsId { get; set; }
     }
 
     public class ChatsTeamsUserId
     {
-        public int UserId;
+        public int UserId { get; set; }
     }
 
     public class ChatsTeamsId

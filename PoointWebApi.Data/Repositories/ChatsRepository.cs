@@ -54,7 +54,7 @@ namespace PoointWebApi.Data.Repositories
             var db = dbConnection();
 
             var sql = @"select userId1, userId2 from chats where (userId1 = @UserId1 and userId2 = @UserId2) Or  (userId1 = @UserId2 and userId2 = @UserId1)";
- 
+
             return await db.QueryAsync<ChatsIds>(sql, new { chat.UserId1, chat.UserId2 });
         }
     }
