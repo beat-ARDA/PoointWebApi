@@ -30,5 +30,12 @@ namespace PoointWebApi.Controllers
 
             return Created("created", created);
         }
+
+        [HttpGet]
+        [Route("GetChatsTeamsUserByUserId")]
+        public async Task<IActionResult> GetChatsTeamsUserByUserId([FromQuery] ChatsTeamsUsersId chat)
+        {
+            return Ok(await _chatsTeamsUsersRepository.GetChatsTeamsUserByUserId(chat));
+        }
     }
 }

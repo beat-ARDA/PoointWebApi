@@ -10,5 +10,7 @@ namespace PoointWebApi.Data.Repositories
     {
         Task<bool> InsertChatTeam(ChatsTeams chatTeam);
         Task<bool> DeleteChatTeamById(ChatsTeamsById chatTeam);
+        Task<ChatsTeamsById> GetChatTeamId(ChatsTeams chatTeam);
+        Task<ChatsTeamsData> GetChatTeamById(ChatsTeamsById chatTeam);
     }
 }

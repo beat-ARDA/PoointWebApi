@@ -19,16 +19,25 @@ namespace PoointWebApi.Data.Repositories
         {
             return new MySqlConnection(_connectionString.ConnectionString);
         }
-        public async Task<bool> InsertChatTeamUser(ChatsTeamsUsers chatTeamsUser)
+        public async Task<bool> InsertChatTeamUser(ChatsTeamsUsers chatTeamUser)
         {
             var db = dbConnection();
 
             var sql = @"insert into chatsteamsusers (userId, chatTeamsId) 
                         values (@UserId, @ChatTeamsId) ";
 
-            var result = await db.ExecuteAsync(sql, new { chatTeamsUser.UserId, chatTeamsUser.ChatTeamsId });
+            var result = await db.ExecuteAsync(sql, new { chatTeamUser.UserId, chatTeamUser.ChatTeamsId });
 
             return result > 0;
+        }
+
+        public async Task<IEnumerable<ChatsTeamsId>> GetChatsTeamsUserByUserId(ChatsTeamsUsersId chatTeamUser)
+        {
+            var db = dbConnection();
+
+            var sql = @"select chatTeamsId from chatsteamsusers where userId = @UserId";
+
+            return await db.QueryAsync<ChatsTeamsId>(sql, new { chatTeamUser.UserId });
         }
     }
 }

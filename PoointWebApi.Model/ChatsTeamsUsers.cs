@@ -10,13 +10,13 @@ namespace PoointWebApi.Model
         public int ChatTeamsId { get; set; }
     }
 
-    public class ChatsTeamsUserId
+    public class ChatsTeamsUsersId
     {
         public int UserId { get; set; }
     }
 
     public class ChatsTeamsId
     {
-        public int ChatTeamsId;
+        public int ChatTeamsId { get; set; }
     }
 }

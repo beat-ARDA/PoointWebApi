@@ -13,4 +13,10 @@ namespace PoointWebApi.Model
     {
         public int Id { get; set; }
     }
+
+    public class ChatsTeamsData
+    {
+        public int Id { get; set; }
+        public string ChatName { get; set; }
+    }
 }

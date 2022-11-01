@@ -37,5 +37,19 @@ namespace PoointWebApi.Controllers
         {
             return Ok(await _chatTeamsRepository.DeleteChatTeamById(chatTeam));
         }
+
+        [HttpGet]
+        [Route("GetChatTeamId")]
+        public async Task<IActionResult> GetChatTeamId([FromQuery] ChatsTeams chatTeam)
+        {
+            return Ok(await _chatTeamsRepository.GetChatTeamId(chatTeam));
+        }
+
+        [HttpGet]
+        [Route("GetChatTeamById")]
+        public async Task<IActionResult> GetChatTeamById([FromQuery] ChatsTeamsById chatTeam)
+        {
+            return Ok(await _chatTeamsRepository.GetChatTeamById(chatTeam));
+        }
     }
 }

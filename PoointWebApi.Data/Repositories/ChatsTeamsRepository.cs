@@ -11,7 +11,7 @@ namespace PoointWebApi.Data.Repositories
     public class ChatsTeamsRepository : IChatsTeamsRepository
     {
         private MySQLConfiguration _connectionString;
-        public ChatsTeamsRepository (MySQLConfiguration connectionString)
+        public ChatsTeamsRepository(MySQLConfiguration connectionString)
         {
             _connectionString = connectionString;
         }
@@ -26,7 +26,7 @@ namespace PoointWebApi.Data.Repositories
             var sql = @"insert into chatsteams (chatName) 
                         values (@ChatName) ";
 
-            var result = await db.ExecuteAsync(sql, new { chatTeam.ChatName});
+            var result = await db.ExecuteAsync(sql, new { chatTeam.ChatName });
 
             return result > 0;
         }
@@ -40,6 +40,24 @@ namespace PoointWebApi.Data.Repositories
             var result = await db.ExecuteAsync(sql, param);
 
             return result > 0;
+        }
+        public async Task<ChatsTeamsById> GetChatTeamId(ChatsTeams chatTeam)
+        {
+            var db = dbConnection();
+
+            var param = new { chatTeam.ChatName };
+            var sql = @"select id from chatsteams where chatName = @ChatName";
+
+            return await db.QuerySingleOrDefaultAsync<ChatsTeamsById>(sql, param);
+        }
+        public async Task<ChatsTeamsData> GetChatTeamById(ChatsTeamsById chatTeam)
+        {
+            var db = dbConnection();
+
+            var param = new { chatTeam.Id };
+            var sql = @"select id, chatName from chatsteams where id = @Id";
+
+            return await db.QuerySingleOrDefaultAsync<ChatsTeamsData>(sql, param);
         }
     }
 }

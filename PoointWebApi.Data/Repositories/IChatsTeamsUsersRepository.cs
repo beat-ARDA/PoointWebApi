@@ -8,6 +8,7 @@ namespace PoointWebApi.Data.Repositories
 {
     public interface IChatsTeamsUsersRepository
     {
-        Task<bool> InsertChatTeamUser(ChatsTeamsUsers chatTeam);
+        Task<bool> InsertChatTeamUser(ChatsTeamsUsers chatTeamUser);
+        Task<IEnumerable<ChatsTeamsId>> GetChatsTeamsUserByUserId(ChatsTeamsUsersId chatTeamUser);
     }
 }
