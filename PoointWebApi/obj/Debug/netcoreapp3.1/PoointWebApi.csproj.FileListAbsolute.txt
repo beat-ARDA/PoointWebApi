@@ -42,3 +42,135 @@ C:\Users\e-arduron\Desktop\MIO\Sem Ago-Dic 2022\pooint\PoointWebApi\PoointWebApi
 C:\Users\e-arduron\Desktop\MIO\Sem Ago-Dic 2022\pooint\PoointWebApi\PoointWebApi\obj\Debug\netcoreapp3.1\PoointWebApi.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\e-arduron\Desktop\MIO\Sem Ago-Dic 2022\pooint\PoointWebApi\PoointWebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Users\e-arduron\Desktop\MIO\Sem Ago-Dic 2022\pooint\PoointWebApi\PoointWebApi\bin\Debug\netcoreapp3.1\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\aleja\Desktop\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\aleja\Desktop\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\aleja\Desktop\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\PoointWebApi.exe
+C:\Users\aleja\Desktop\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\PoointWebApi.deps.json
+C:\Users\aleja\Desktop\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\PoointWebApi.runtimeconfig.json
+C:\Users\aleja\Desktop\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\PoointWebApi.runtimeconfig.dev.json
+C:\Users\aleja\Desktop\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\PoointWebApi.dll
+C:\Users\aleja\Desktop\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\PoointWebApi.pdb
+C:\Users\aleja\Desktop\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\aleja\Desktop\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\aleja\Desktop\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\aleja\Desktop\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\aleja\Desktop\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\aleja\Desktop\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\aleja\Desktop\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\aleja\Desktop\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\aleja\Desktop\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\aleja\Desktop\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\aleja\Desktop\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\aleja\Desktop\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\aleja\Desktop\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\aleja\Desktop\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\aleja\Desktop\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\aleja\Desktop\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\aleja\Desktop\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aleja\Desktop\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aleja\Desktop\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aleja\Desktop\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\PoointWebApi.Data.dll
+C:\Users\aleja\Desktop\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\PoointWebApi.Model.dll
+C:\Users\aleja\Desktop\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\PoointWebApi.Data.pdb
+C:\Users\aleja\Desktop\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\PoointWebApi.Model.pdb
+C:\Users\aleja\Desktop\PoointWebApi-main\PoointWebApi\obj\Debug\netcoreapp3.1\PoointWebApi.csproj.AssemblyReference.cache
+C:\Users\aleja\Desktop\PoointWebApi-main\PoointWebApi\obj\Debug\netcoreapp3.1\PoointWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\Desktop\PoointWebApi-main\PoointWebApi\obj\Debug\netcoreapp3.1\PoointWebApi.AssemblyInfoInputs.cache
+C:\Users\aleja\Desktop\PoointWebApi-main\PoointWebApi\obj\Debug\netcoreapp3.1\PoointWebApi.AssemblyInfo.cs
+C:\Users\aleja\Desktop\PoointWebApi-main\PoointWebApi\obj\Debug\netcoreapp3.1\PoointWebApi.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Desktop\PoointWebApi-main\PoointWebApi\obj\Debug\netcoreapp3.1\PoointWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aleja\Desktop\PoointWebApi-main\PoointWebApi\obj\Debug\netcoreapp3.1\PoointWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aleja\Desktop\PoointWebApi-main\PoointWebApi\obj\Debug\netcoreapp3.1\staticwebassets\PoointWebApi.StaticWebAssets.Manifest.cache
+C:\Users\aleja\Desktop\PoointWebApi-main\PoointWebApi\obj\Debug\netcoreapp3.1\PoointWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\aleja\Desktop\PoointWebApi-main\PoointWebApi\obj\Debug\netcoreapp3.1\PoointWebApi.csproj.CopyComplete
+C:\Users\aleja\Desktop\PoointWebApi-main\PoointWebApi\obj\Debug\netcoreapp3.1\PoointWebApi.dll
+C:\Users\aleja\Desktop\PoointWebApi-main\PoointWebApi\obj\Debug\netcoreapp3.1\PoointWebApi.pdb
+C:\Users\aleja\Desktop\PoointWebApi-main\PoointWebApi\obj\Debug\netcoreapp3.1\PoointWebApi.genruntimeconfig.cache
+C:\Users\aleja\Desktop\POI\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\aleja\Desktop\POI\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\aleja\Desktop\POI\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\PoointWebApi.exe
+C:\Users\aleja\Desktop\POI\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\PoointWebApi.deps.json
+C:\Users\aleja\Desktop\POI\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\PoointWebApi.runtimeconfig.json
+C:\Users\aleja\Desktop\POI\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\PoointWebApi.runtimeconfig.dev.json
+C:\Users\aleja\Desktop\POI\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\PoointWebApi.dll
+C:\Users\aleja\Desktop\POI\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\PoointWebApi.pdb
+C:\Users\aleja\Desktop\POI\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\aleja\Desktop\POI\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\aleja\Desktop\POI\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\aleja\Desktop\POI\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\aleja\Desktop\POI\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\aleja\Desktop\POI\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\aleja\Desktop\POI\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\aleja\Desktop\POI\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\aleja\Desktop\POI\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\aleja\Desktop\POI\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\aleja\Desktop\POI\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\aleja\Desktop\POI\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\aleja\Desktop\POI\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\aleja\Desktop\POI\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\aleja\Desktop\POI\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\aleja\Desktop\POI\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\aleja\Desktop\POI\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aleja\Desktop\POI\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aleja\Desktop\POI\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aleja\Desktop\POI\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\PoointWebApi.Data.dll
+C:\Users\aleja\Desktop\POI\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\PoointWebApi.Model.dll
+C:\Users\aleja\Desktop\POI\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\PoointWebApi.Data.pdb
+C:\Users\aleja\Desktop\POI\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\PoointWebApi.Model.pdb
+C:\Users\aleja\Desktop\POI\PoointWebApi-main\PoointWebApi\obj\Debug\netcoreapp3.1\PoointWebApi.csproj.AssemblyReference.cache
+C:\Users\aleja\Desktop\POI\PoointWebApi-main\PoointWebApi\obj\Debug\netcoreapp3.1\PoointWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\Desktop\POI\PoointWebApi-main\PoointWebApi\obj\Debug\netcoreapp3.1\PoointWebApi.AssemblyInfoInputs.cache
+C:\Users\aleja\Desktop\POI\PoointWebApi-main\PoointWebApi\obj\Debug\netcoreapp3.1\PoointWebApi.AssemblyInfo.cs
+C:\Users\aleja\Desktop\POI\PoointWebApi-main\PoointWebApi\obj\Debug\netcoreapp3.1\PoointWebApi.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Desktop\POI\PoointWebApi-main\PoointWebApi\obj\Debug\netcoreapp3.1\PoointWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aleja\Desktop\POI\PoointWebApi-main\PoointWebApi\obj\Debug\netcoreapp3.1\PoointWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aleja\Desktop\POI\PoointWebApi-main\PoointWebApi\obj\Debug\netcoreapp3.1\staticwebassets\PoointWebApi.StaticWebAssets.Manifest.cache
+C:\Users\aleja\Desktop\POI\PoointWebApi-main\PoointWebApi\obj\Debug\netcoreapp3.1\PoointWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\aleja\Desktop\POI\PoointWebApi-main\PoointWebApi\obj\Debug\netcoreapp3.1\PoointWebApi.csproj.CopyComplete
+C:\Users\aleja\Desktop\POI\PoointWebApi-main\PoointWebApi\obj\Debug\netcoreapp3.1\PoointWebApi.dll
+C:\Users\aleja\Desktop\POI\PoointWebApi-main\PoointWebApi\obj\Debug\netcoreapp3.1\PoointWebApi.pdb
+C:\Users\aleja\Desktop\POI\PoointWebApi-main\PoointWebApi\obj\Debug\netcoreapp3.1\PoointWebApi.genruntimeconfig.cache
+C:\Users\daren\OneDrive\Escritorio\Proyecto POI\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\daren\OneDrive\Escritorio\Proyecto POI\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\daren\OneDrive\Escritorio\Proyecto POI\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\PoointWebApi.exe
+C:\Users\daren\OneDrive\Escritorio\Proyecto POI\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\PoointWebApi.deps.json
+C:\Users\daren\OneDrive\Escritorio\Proyecto POI\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\PoointWebApi.runtimeconfig.json
+C:\Users\daren\OneDrive\Escritorio\Proyecto POI\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\PoointWebApi.runtimeconfig.dev.json
+C:\Users\daren\OneDrive\Escritorio\Proyecto POI\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\PoointWebApi.dll
+C:\Users\daren\OneDrive\Escritorio\Proyecto POI\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\PoointWebApi.pdb
+C:\Users\daren\OneDrive\Escritorio\Proyecto POI\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\daren\OneDrive\Escritorio\Proyecto POI\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\daren\OneDrive\Escritorio\Proyecto POI\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\daren\OneDrive\Escritorio\Proyecto POI\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\daren\OneDrive\Escritorio\Proyecto POI\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\daren\OneDrive\Escritorio\Proyecto POI\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\daren\OneDrive\Escritorio\Proyecto POI\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\daren\OneDrive\Escritorio\Proyecto POI\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\daren\OneDrive\Escritorio\Proyecto POI\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\daren\OneDrive\Escritorio\Proyecto POI\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\daren\OneDrive\Escritorio\Proyecto POI\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\daren\OneDrive\Escritorio\Proyecto POI\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\daren\OneDrive\Escritorio\Proyecto POI\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\daren\OneDrive\Escritorio\Proyecto POI\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\daren\OneDrive\Escritorio\Proyecto POI\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\daren\OneDrive\Escritorio\Proyecto POI\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\daren\OneDrive\Escritorio\Proyecto POI\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\daren\OneDrive\Escritorio\Proyecto POI\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\daren\OneDrive\Escritorio\Proyecto POI\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\daren\OneDrive\Escritorio\Proyecto POI\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\PoointWebApi.Data.dll
+C:\Users\daren\OneDrive\Escritorio\Proyecto POI\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\PoointWebApi.Model.dll
+C:\Users\daren\OneDrive\Escritorio\Proyecto POI\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\PoointWebApi.Data.pdb
+C:\Users\daren\OneDrive\Escritorio\Proyecto POI\PoointWebApi-main\PoointWebApi\bin\Debug\netcoreapp3.1\PoointWebApi.Model.pdb
+C:\Users\daren\OneDrive\Escritorio\Proyecto POI\PoointWebApi-main\PoointWebApi\obj\Debug\netcoreapp3.1\PoointWebApi.csproj.AssemblyReference.cache
+C:\Users\daren\OneDrive\Escritorio\Proyecto POI\PoointWebApi-main\PoointWebApi\obj\Debug\netcoreapp3.1\PoointWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daren\OneDrive\Escritorio\Proyecto POI\PoointWebApi-main\PoointWebApi\obj\Debug\netcoreapp3.1\PoointWebApi.AssemblyInfoInputs.cache
+C:\Users\daren\OneDrive\Escritorio\Proyecto POI\PoointWebApi-main\PoointWebApi\obj\Debug\netcoreapp3.1\PoointWebApi.AssemblyInfo.cs
+C:\Users\daren\OneDrive\Escritorio\Proyecto POI\PoointWebApi-main\PoointWebApi\obj\Debug\netcoreapp3.1\PoointWebApi.csproj.CoreCompileInputs.cache
+C:\Users\daren\OneDrive\Escritorio\Proyecto POI\PoointWebApi-main\PoointWebApi\obj\Debug\netcoreapp3.1\PoointWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\daren\OneDrive\Escritorio\Proyecto POI\PoointWebApi-main\PoointWebApi\obj\Debug\netcoreapp3.1\PoointWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\daren\OneDrive\Escritorio\Proyecto POI\PoointWebApi-main\PoointWebApi\obj\Debug\netcoreapp3.1\staticwebassets\PoointWebApi.StaticWebAssets.Manifest.cache
+C:\Users\daren\OneDrive\Escritorio\Proyecto POI\PoointWebApi-main\PoointWebApi\obj\Debug\netcoreapp3.1\PoointWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\daren\OneDrive\Escritorio\Proyecto POI\PoointWebApi-main\PoointWebApi\obj\Debug\netcoreapp3.1\PoointWebApi.csproj.CopyComplete
+C:\Users\daren\OneDrive\Escritorio\Proyecto POI\PoointWebApi-main\PoointWebApi\obj\Debug\netcoreapp3.1\PoointWebApi.dll
+C:\Users\daren\OneDrive\Escritorio\Proyecto POI\PoointWebApi-main\PoointWebApi\obj\Debug\netcoreapp3.1\PoointWebApi.pdb
+C:\Users\daren\OneDrive\Escritorio\Proyecto POI\PoointWebApi-main\PoointWebApi\obj\Debug\netcoreapp3.1\PoointWebApi.genruntimeconfig.cache

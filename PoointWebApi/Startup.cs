@@ -52,6 +52,14 @@ namespace PoointWebApi
             services.AddScoped<IChatsTeamsUsersRepository, ChatsTeamsUsersRepository>();
             services.AddScoped<IChatTeamsMessagesRepository, ChatTeamsMessagesRepository>();
 
+            services.AddScoped<IGrupos, GruposRepository>();
+            services.AddScoped<ISubGruposRepository, SubGrupoRepository>();
+            services.AddScoped<IParticipantesRepository,ParticipantesRepository>();
+            services.AddScoped<IAvisosRepository, AvisosRepository>();
+            services.AddScoped<IComentarioARepository, ComentarioARepository>();
+            services.AddScoped<ITareaRepository, TareaRepository>();
+            services.AddScoped<ITareasRepository, TareasRepsoitory>();
+
             services.AddControllers();
             AddSwagger(services);
         }

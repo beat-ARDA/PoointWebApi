@@ -42,5 +42,20 @@ namespace PoointWebApi.Controllers
         {
             return Ok(await _userRepository.GetAllUsers());
         }
+
+        [HttpPost]
+        [Route("UpdateStatus")]
+        public async Task<IActionResult> UpdateUserStatus([FromBody] User user)
+        {
+            if (user == null)
+                return BadRequest();
+
+            if (!ModelState.IsValid)
+                return BadRequest(ModelState);
+
+            await _userRepository.UpdateUserStatus(user);
+
+            return NoContent();
+        }
     }
 }
