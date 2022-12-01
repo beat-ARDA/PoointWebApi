@@ -9,11 +9,13 @@ namespace PoointWebApi.Model
         public int IdChat { get; set; }
         public string Message { get; set; }
         public string User { get; set; }
+        public int Encryptado { get; set; }
     }
     public class ChatMessageData
     {
         public string User { get; set; }
         public string Message { get; set; }
+        public int Encryptado { get; set; }
     }
 
     public class ChatMessageId

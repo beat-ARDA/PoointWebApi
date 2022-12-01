@@ -6,8 +6,10 @@ namespace PoointWebApi.Model
 {
     public class User
     {
-        public int Id { get; set; }
+        public int id_user { get; set; }
         public string Username { get; set; }
+        public Boolean estado { get; set; }
+
     }
 
     public class UserLogIn
