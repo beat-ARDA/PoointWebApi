@@ -11,5 +11,6 @@ namespace PoointWebApi.Data.Repositories
         Task<bool> InsertUser(UserLogIn user);
         Task<User> GetUserLogin(UserLogIn user);
         Task<IEnumerable<User>> GetAllUsers();
+        Task<bool> UpdateUserStatus(User user);
     }
 }

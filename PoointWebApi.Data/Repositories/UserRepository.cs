@@ -25,7 +25,7 @@ namespace PoointWebApi.Data.Repositories
             var db = dbConnection();
 
             var param = new { user.Username, user.Password };
-            var sql = @"select id, username from users where username = @Username and password = @Password";
+            var sql = @"select id_user, username from users where username = @Username and password = @Password";
 
             return await db.QuerySingleOrDefaultAsync<User>(sql, param);
         }
@@ -45,9 +45,20 @@ namespace PoointWebApi.Data.Repositories
         {
             var db = dbConnection();
 
-            var sql = @"select id, username from users";
+            var sql = @"select id_user, username, estado from users";
 
             return await db.QueryAsync<User>(sql, new { });
+        }
+
+        public async Task<bool> UpdateUserStatus(User user)
+        {
+            var db = dbConnection();
+
+            var sql = @"UPDATE users SET estado = @estado WHERE id_user = @id_user;"
+            ;
+            var result = await db.ExecuteAsync(sql, new { user.id_user, user.estado });
+
+            return result > 0;
         }
     }
 }

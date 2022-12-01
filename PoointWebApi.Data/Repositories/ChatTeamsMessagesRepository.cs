@@ -25,10 +25,10 @@ namespace PoointWebApi.Data.Repositories
         {
             var db = dbConnection();
 
-            var sql = @"insert into chatsteamsmessages (idChatTeam, message, user) 
-                        values (@IdChatTeam, @Message, @User) ";
+            var sql = @"insert into chatteamsmessages (chatTeamsId, message, user, encryptado) 
+                        values (@IdChatTeam, @Message, @User, @Encryptado) ";
 
-            var result = await db.ExecuteAsync(sql, new { chatTeamsMessage.IdChatTeam, chatTeamsMessage.Message, chatTeamsMessage.User });
+            var result = await db.ExecuteAsync(sql, new { chatTeamsMessage.IdChatTeam, chatTeamsMessage.Message, chatTeamsMessage.User, chatTeamsMessage.Encryptado });
 
             return result > 0;
         }
@@ -37,7 +37,7 @@ namespace PoointWebApi.Data.Repositories
         {
             var db = dbConnection();
 
-            var sql = @"select user, message from chatsteamsmessages where idChatTeam = @IdChatTeam";
+            var sql = @"select user, message, encryptado from chatteamsmessages where chatTeamsId = @IdChatTeam";
 
             return await db.QueryAsync<ChatTeamsMessagesData>(sql, new { chatTeamMessage.IdChatTeam });
         }
